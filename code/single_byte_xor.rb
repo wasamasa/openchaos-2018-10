@@ -75,7 +75,7 @@ best_score = 0
 best_solution = ''
 
 (0..255).each do |key|
-  solution = str(xor_buffer_with_byte(ciphertext, key))
+  solution = str(xor_buffer_with_byte(CIPHERTEXT, key))
   score = english_score(solution)
   if score > best_score
     best_score = score
