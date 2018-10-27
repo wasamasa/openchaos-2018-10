@@ -13,4 +13,4 @@ präsentiert, dafür werden Übungen von der Website
 https://cryptopals.com/ verwendet und mit überraschend wenigen Zeilen
 Code in der Programmiersprache Ruby gelöst.
 
-[[https://koeln.ccc.de/updates/2018-10-25_OC_Krypto_knacken_fuer_Anfaenger.xml][OpenChaos-Ankündigung]].
+[[https://koeln.ccc.de/updates/2018-10-25_OC_Krypto_knacken_fuer_Anfaenger.xml][OpenChaos-Ankündigung]], [[https://media.ccc.de/v/c4.openchaos.2018.10.krypto-knacken-fuer-anfaenger][Videoaufnahme]].
