@@ -1,16 +1,1 @@
-* Krypto knacken für Anfänger
-
-Moderne Kryptographie ist ein wichtiges Feld der angewandten
-Mathematik.  Die dadurch erarbeiteten Bausteine, sogenannte
-kryptographische Primitive, werden als sicher bewiesen, jedoch gilt
-diese Eigenschaft nur wenn diese korrekt verwendet werden.  Bei dem
-Kombinieren dieser Bausteine zu einem kryptographischen System kommt
-es oft zu Fehlern welche die gesamte Sicherheit des Systems
-kompromittieren können.
-
-In diesem Vortrag werden bekannte Angriffe auf solche Systeme
-präsentiert, dafür werden Übungen von der Website
-https://cryptopals.com/ verwendet und mit überraschend wenigen Zeilen
-Code in der Programmiersprache Ruby gelöst.
-
-[[https://koeln.ccc.de/updates/2018-10-25_OC_Krypto_knacken_fuer_Anfaenger.xml][OpenChaos-Ankündigung]], [[https://media.ccc.de/v/c4.openchaos.2018.10.krypto-knacken-fuer-anfaenger][Videoaufnahme]].
+Moved to https://depp.brause.cc/talks/
